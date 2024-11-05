@@ -60,6 +60,7 @@ The notebook is divided into the following main steps:
 ### Example QR Code
 
 You can test the system with the following sample QR code:
+
 ![QR Code Example](./test_qr_code.png)  
 This QR code links to "[https://example.com](https://idemia-mobile-id.com/testqr-success)" this is a website specifically for testing qr code readers.
 
